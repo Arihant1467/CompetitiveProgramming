@@ -1,34 +1,35 @@
 #include <iostream>
 #include <stack>
 using namespace std;
-struct node
-{
+struct node{
     int data;
     node *left, *right;
 };
-node *getNewNode(int d)
-{
+node *getNewNode(int d){
     node *n = new node;
     n->left = NULL;
     n->right = NULL;
     n->data = d;
     return n;
 }
-
 void doInorderTraversalWithoutRecusrion(node *root){
+    if(root == NULL){   return; }
+    bool completed = false;
     stack<node*> ss;
-    ss.push(root);
     node *current = root;
-    while(!ss.empty()){
-        if(current->left != NULL){
-            ss.push(current->left);
+    while(!completed){
+        if(current != NULL){
+            ss.push(current);
             current = current->left;
         }else{
-            current = ss.top();
-            cout<<current->data; ss.pop();
-            current = current->right;
-            if(current != NULL)
-            {ss.push(current);}
+            if(!ss.empty()){
+                current = ss.top();
+                cout<<current->data<<" ";
+                ss.pop();
+                current=current->right;
+            }else{
+                completed = true;
+            }
         }
     }
 }
