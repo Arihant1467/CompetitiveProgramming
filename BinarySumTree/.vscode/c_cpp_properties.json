@@ -55,7 +55,7 @@
             "browse": {
                 "path": [
                     "${workspaceRoot}",
-                    "C:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\c++/exe"
+                    "C:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\c++.exe"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
