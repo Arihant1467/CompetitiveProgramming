@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429617435 source:g:\codeblocks\primalgo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<limits.h>
+	<stdio.h>
+
