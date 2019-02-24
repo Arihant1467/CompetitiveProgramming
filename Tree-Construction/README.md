@@ -39,7 +39,7 @@ Postorder  = [29,24,41,38,51,55,77,63,49]
 
 
 #### Complexity Analysis
-* Time Complexity: `O(N^2)` where `N` is the number of nodes. This is beacuse we searching index of last node of `postorder` traversal in inorder traversal
+* Time Complexity: `O(N^2)` where `N` is the number of nodes. This is beacuse we are searching index of last node in `postorder` traversal in the `inorder` traversal of the tree.
 * Space Complexity: `O(N)` where `N` is the number of nodes. The space is occupied by the recursion stack in this case.
 
 #### Link to OJ
