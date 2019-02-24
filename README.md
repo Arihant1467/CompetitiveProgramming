@@ -49,7 +49,7 @@ It contains solutions to various programming questions which I have solved on va
     <td>6.</td>
     <td>Construct a Binary Tree from Inorder and Postorder Traversal</td>
     <td><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">Leet Code</a></td>
-    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Tree-Construction/README.md">Solution</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Binary-Tree-from-Inorder-and-Postorder-Traversal/README.md">Solution</a></td>
   </tr>
 
 </table>
