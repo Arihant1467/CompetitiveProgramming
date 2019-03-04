@@ -52,6 +52,13 @@ It contains solutions to various programming questions which I have solved on va
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Binary-Tree-from-Inorder-and-Postorder-Traversal/README.md">Solution</a></td>
   </tr>
 
+  <tr>
+    <td>7.</td>
+    <td>Convert Sorted Array to Binary Search Tree</td>
+    <td><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">Leet Code</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Sorted-Array-to-Binary-Search-Tree/README.md">Solution</a></td>
+  </tr>
+
 </table>
 
 #### I will happily accept suggestions or any interesting questions you want me to post.
