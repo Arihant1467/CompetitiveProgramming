@@ -13,7 +13,7 @@ Answer = No of multiples of(3) + No of multiples of(5) - No of multiples(3*5)
 - 5(1 + 2 + 3 + 4 +....+ i)
 - 5/2(n)*(n+1)
 
-#### Summation of multiples of 3
+#### Summation of multiples of 3 and 5
 - 15 + 30 + 45 + 60 +.....+ 15*i
 - 3(1 + 2 + 3 + 4 +....+ i)
 - 15/2(n)*(n+1)
