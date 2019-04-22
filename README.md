@@ -1,5 +1,5 @@
 # CompetitiveProgramming
-It contains solutions to various programming questions which I have solved on various online judges like [Leetcode](https://leetcode.com), [HackerRank](https://www.hackerrank.com/), [Geeks For Geeks](https://www.geeksforgeeks.org/)
+This repository contains solutions to various programming questions which I have solved on various online judges like [Leetcode](https://leetcode.com), [HackerRank](https://www.hackerrank.com/), [Geeks For Geeks](https://www.geeksforgeeks.org/)
     
 <table>  
   
@@ -59,7 +59,49 @@ It contains solutions to various programming questions which I have solved on va
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Sorted-Array-to-Binary-Search-Tree/README.md">Solution</a></td>
   </tr>
 
+  <tr>
+    <td>8.</td>
+    <td>Convert Sorted List to Binary Search Tree</td>
+    <td><a href="https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/">Leet Code</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Convert-Sorted-List-to-Binary-Search-Tree/README.md">Solution</a></td>
+  </tr>
+
 </table>
 
-#### I will happily accept suggestions or any interesting questions you want me to post.
-Mail me at: arihant95@gmail.com
+# Project Euler
+[Here](https://github.com/Arihant1467/CompetitiveProgramming/tree/master/ProjectEuler) you will find solutions to different questions of Project Euler which I have solved during my learning period.
+
+
+<table>  
+  
+  <tr>
+    <td><b>Day</b></td>
+    <td><b>Problem No</b></td>
+    <td><b>Problem URL</b></td>
+    <td><b>Solution</b></td>
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>001</td>
+    <td><a href="https://projecteuler.net/problem=1">Multiples of 3 and 5</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/ProjectEuler/001">Solution</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>002</td>
+    <td><a href="https://projecteuler.net/problem=2">	Even Fibonacci numbers</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/ProjectEuler/002">Solution</a></td>
+  </tr>
+  
+
+</table>
+
+
+---
+
+This repo acts as a point of reference for me and helps me to prepare for my technical interviews. I think students who are readying themselves for Industry might find it useful.
+
+Hit me up for any suggestions:
+**Mail me at:** arihant95@gmail.com
