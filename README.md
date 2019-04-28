@@ -66,6 +66,13 @@ This repository contains solutions to various programming questions which I have
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Convert-Sorted-List-to-Binary-Search-Tree/README.md">Solution</a></td>
   </tr>
 
+  <tr>
+    <td>9.</td>
+    <td>Count Complete Tree Nodes</td>
+    <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Leet Code</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/CountCompleteTreeNodes/README.md">Solution</a></td>
+  </tr>
+
 </table>
 
 # Project Euler
