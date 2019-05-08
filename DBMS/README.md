@@ -23,6 +23,11 @@
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS/SelectAll">Solution</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem">Type of Triangle</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS/TypeOfTriangle">Solution</a></td>
+  </tr>
+
   
 
 </table>
