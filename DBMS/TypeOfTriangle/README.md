@@ -3,8 +3,8 @@
 [https://www.hackerrank.com/challenges/what-type-of-triangle/problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
 
 
-![Question](./../../Images/DBMS/TypeOfTriangle/question-1.png)
-![Sample Input & Output](./../../Images/DBMS/TypeOfTriangle/question-2.png)
+![Question](./../../Images/DBMS/TypeofTriangle/question-1.png)
+![Sample Input & Output](./../../Images/DBMS/TypeofTriangle/question-2.png)
 
 
 #### SQL Query
