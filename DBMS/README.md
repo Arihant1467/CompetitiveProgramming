@@ -9,10 +9,13 @@
   </tr>
   
   <tr>
-    <td>1</td>
-    <td>001</td>
     <td><a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem">Revising Select Query-1</a></td>
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS/RevisingSelectQuery-1">Solution</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.hackerrank.com/challenges/revising-the-select-query-2/problem">Revising Select Query-2</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS/RevisingSelectQuery-2">Solution</a></td>
   </tr>
 
   
