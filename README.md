@@ -79,36 +79,18 @@ This repository contains solutions to various programming questions which I have
 [Here](https://github.com/Arihant1467/CompetitiveProgramming/tree/master/ProjectEuler) you will find solutions to different questions of Project Euler which I have solved during my learning period.
 
 
-<table>  
-  
-  <tr>
-    <td><b>Day</b></td>
-    <td><b>Problem No</b></td>
-    <td><b>Problem URL</b></td>
-    <td><b>Solution</b></td>
-  </tr>
-  
-  <tr>
-    <td>1</td>
-    <td>001</td>
-    <td><a href="https://projecteuler.net/problem=1">Multiples of 3 and 5</a></td>
-    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/ProjectEuler/001">Solution</a></td>
-  </tr>
 
-  <tr>
-    <td>2</td>
-    <td>002</td>
-    <td><a href="https://projecteuler.net/problem=2">	Even Fibonacci numbers</a></td>
-    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/ProjectEuler/002">Solution</a></td>
-  </tr>
+# DBMS
+[Here](https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS) you will find various SQL queries to DBMS questions on different coding platforms
   
 
 </table>
 
-
 ---
 
-This repo acts as a point of reference for me and helps me to prepare for my technical interviews. I think students who are readying themselves for Industry might find it useful.
+This repo acts as a point of reference for me to prepare for my technical interviews. I feel documenting everything I do helps us remember our problems and solutions which in turn acts as a good revision.
+
+This repo can also be a good reference for someone who is preparing for their technical interviews
 
 Hit me up for any suggestions:
 **Mail me at:** arihant95@gmail.com
