@@ -18,6 +18,11 @@
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS/RevisingSelectQuery-2">Solution</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://www.hackerrank.com/challenges/select-all-sql/problem">Select All</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS/SelectAll">Solution</a></td>
+  </tr>
+
   
 
 </table>
