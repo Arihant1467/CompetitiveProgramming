@@ -28,6 +28,11 @@
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS/TypeOfTriangle">Solution</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://www.hackerrank.com/challenges/the-pads/problem">PADS</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/DBMS/PADS">Solution</a></td>
+  </tr>
+
   
 
 </table>
