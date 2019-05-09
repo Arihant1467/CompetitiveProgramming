@@ -73,6 +73,13 @@ This repository contains solutions to various programming questions which I have
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/CountCompleteTreeNodes/README.md">Solution</a></td>
   </tr>
 
+  <tr>
+    <td>10.</td>
+    <td>Height Of A binary Tree</td>
+    <td><a href="https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem">Hacker Rank</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/HeightOfABinaryTree">Solution</a></td>
+  </tr>
+
 </table>
 
 # Project Euler
