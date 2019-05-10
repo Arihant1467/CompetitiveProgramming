@@ -100,6 +100,14 @@ This repository contains solutions to various programming questions which I have
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/LowestCommonAncestor">Solution</a></td>
   </tr>
 
+
+  <tr>
+    <td>13.</td>
+    <td>Minimum Falling Path Sum</td>
+    <td><a href="https://leetcode.com/problems/minimum-falling-path-sum/">Leet Code</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/MinimumFallingPathSum">Solution</a></td>
+  </tr>
+
 </table>
 
 # Project Euler
