@@ -1,5 +1,11 @@
 # CompetitiveProgramming
-This repository contains solutions to various programming questions which I have solved on various online judges like [Leetcode](https://leetcode.com), [HackerRank](https://www.hackerrank.com/), [Geeks For Geeks](https://www.geeksforgeeks.org/)
+This repository contains solutions to various programming questions which I have solved on various online judges like 
+
+[Leetcode](https://leetcode.com)
+
+[HackerRank](https://www.hackerrank.com/)
+
+[Geeks For Geeks](https://www.geeksforgeeks.org/)
     
 <table>  
   
@@ -35,7 +41,7 @@ This repository contains solutions to various programming questions which I have
     <td>4.</td>
     <td>Generate Parantheses</td>
     <td><a href="https://leetcode.com/problems/generate-parentheses/">Leet Code</a></td>
-    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Generate-Parentheses/README.md">Solution</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Generate-Parentheses/">Solution</a></td>
   </tr>
   
   <tr>
@@ -49,28 +55,28 @@ This repository contains solutions to various programming questions which I have
     <td>6.</td>
     <td>Construct a Binary Tree from Inorder and Postorder Traversal</td>
     <td><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">Leet Code</a></td>
-    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Binary-Tree-from-Inorder-and-Postorder-Traversal/README.md">Solution</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Binary-Tree-from-Inorder-and-Postorder-Traversal/">Solution</a></td>
   </tr>
 
   <tr>
     <td>7.</td>
     <td>Convert Sorted Array to Binary Search Tree</td>
     <td><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">Leet Code</a></td>
-    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Sorted-Array-to-Binary-Search-Tree/README.md">Solution</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Sorted-Array-to-Binary-Search-Tree/">Solution</a></td>
   </tr>
 
   <tr>
     <td>8.</td>
     <td>Convert Sorted List to Binary Search Tree</td>
     <td><a href="https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/">Leet Code</a></td>
-    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Convert-Sorted-List-to-Binary-Search-Tree/README.md">Solution</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/Convert-Sorted-List-to-Binary-Search-Tree/">Solution</a></td>
   </tr>
 
   <tr>
     <td>9.</td>
     <td>Count Complete Tree Nodes</td>
     <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Leet Code</a></td>
-    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/CountCompleteTreeNodes/README.md">Solution</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/CountCompleteTreeNodes/">Solution</a></td>
   </tr>
 
   <tr>
@@ -78,6 +84,13 @@ This repository contains solutions to various programming questions which I have
     <td>Height Of A binary Tree</td>
     <td><a href="https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem">Hacker Rank</a></td>
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/HeightOfABinaryTree">Solution</a></td>
+  </tr>
+
+  <tr>
+    <td>11.</td>
+    <td>Minimum Cost for Tickets</td>
+    <td><a href="https://leetcode.com/problems/minimum-cost-for-tickets/">Leet Code</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/MinimumCostForTickets">Solution</a></td>
   </tr>
 
 </table>
@@ -100,4 +113,6 @@ This repo acts as a point of reference for me to prepare for my technical interv
 This repo can also be a good reference for someone who is preparing for their technical interviews
 
 Hit me up for any suggestions:
-**Mail me at:** arihant95@gmail.com
+**Mail me at:** 
+
+arihant95@gmail.com
