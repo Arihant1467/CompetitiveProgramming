@@ -93,6 +93,13 @@ This repository contains solutions to various programming questions which I have
     <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/MinimumCostForTickets">Solution</a></td>
   </tr>
 
+  <tr>
+    <td>12.</td>
+    <td>Lowest Common Ancestor</td>
+    <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Leet Code</a></td>
+    <td><a href="https://github.com/Arihant1467/CompetitiveProgramming/tree/master/LowestCommonAncestor">Solution</a></td>
+  </tr>
+
 </table>
 
 # Project Euler
