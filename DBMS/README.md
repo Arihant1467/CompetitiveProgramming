@@ -47,7 +47,8 @@
 
 This repo acts as a point of reference for me to prepare for my technical interviews. I feel documenting everything I do helps us remember our problems and solutions which in turn acts as a good revision.
 
-This repo can also be a good reference for someone who is preparing for their technical interviews
+This repo can also be a good reference for someone who is preparing for their technical interviews.
 
-Hit me up for any suggestions:
-**Mail me at:** arihant95@gmail.com
+If you feel you have a better solution then make a pull request and I will review.
+
+Hit me up for any suggestions @ **arihant95@gmail.com**
