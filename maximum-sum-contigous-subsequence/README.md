@@ -1,5 +1,5 @@
 ### Maximum sum in Array where elements are in contigous position
-[Question](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
 
 #### There are two types of solutions available.
 1.  0(n) dynamic programming solution
