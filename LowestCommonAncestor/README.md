@@ -1,4 +1,4 @@
-## Minimum Cost for Tickets
+## Lowest Common Ancestor
 
 ![Question](./../Images/LowestCommonAncestor/question.png)
 
